@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963628777385",
+    "project_id": "subasta-en-vivo-3ce89",
+    "storage_bucket": "subasta-en-vivo-3ce89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963628777385:android:bd488ece77079ccbad4eb8",
+        "android_client_info": {
+          "package_name": "mla303.subasta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963628777385-pee19efh9evsalks4dthkenspimgb3fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH4rBHnV5oqexpNWcpjKFIZsNznmqyj0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963628777385-pee19efh9evsalks4dthkenspimgb3fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
